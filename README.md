@@ -1,4 +1,4 @@
-# ChatNest 💬📁  
+w# ChatNest 💬📁  
 A multithreaded Java desktop application for real-time messaging and file transfer across LAN or Wi-Fi.
 
 ## 🔹 Key Features
@@ -22,4 +22,4 @@ To reduce repository size, `.jar` and Launch4j-generated `.exe` files have been 
 ## 🧪 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/PranjalChhetri/ChatNest.git]
+   git clone https://github.com/PranjalChhetri/ChatNest.git

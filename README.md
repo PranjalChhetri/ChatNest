@@ -19,10 +19,7 @@ A multithreaded Java desktop application for real-time messaging and file transf
 ## ⚠️ Note
 To reduce repository size, `.jar` and Launch4j-generated `.exe` files have been excluded.
 
-For a compact version of this application with executable files included, check:  
-👉 [TCP-IP_FileSharing](https://github.com/Harshit333902/TCP-IP_FileSharing)
-
 ## 🧪 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshit333902/ChatNest.git
+   git clone [https://github.com/PranjalChhetri/ChatNest.git]
